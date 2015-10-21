@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">propuestoIntentImplicito</string>
+    <string name="btn1">Abrir página web</string>
+    <string name="btn2">Llamar por teléfono</string>
+    <string name="btn3">Tomar una foto</string>
+    <string name="btn4">Envio de correo</string>
+</resources>
